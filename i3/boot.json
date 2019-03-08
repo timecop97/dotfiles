@@ -1,0 +1,72 @@
+{
+    "border": "normal",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 362,
+       "width": 654,
+       "x": 0,
+       "y": 0
+    },
+    "name": "raffi@raffilap:~",
+    "percent": 0.521961932650073,
+    "swallows": [
+       {
+       "class": "^Termite$",
+       "name" : "^term2$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "normal",
+    "floating": "auto_off",
+    "layout": "splitv",
+    "percent": 0.478038067349927,
+    "type": "con",
+    "nodes": [
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 362,
+               "width": 654,
+               "x": 0,
+               "y": 0
+            },
+            "name": "raffi@raffilap:~",
+            "percent": 0.491935483870968,
+            "swallows": [
+               {
+               "class": "^Termite$",
+               "name": "^nf$"
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 362,
+               "width": 654,
+               "x": 0,
+               "y": 0
+            },
+            "name": "raffi@raffilap:~",
+            "percent": 0.508064516129032,
+            "swallows": [
+               {
+               "class": "^Termite$",
+	       "name" : "^term$"
+ 	       
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
