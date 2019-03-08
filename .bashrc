@@ -17,6 +17,11 @@ function al(){
 	ref
 }
 
+function cds(){
+	cd $1
+	ls
+}
+
 alias abr='abricotine'
 
 alias config='/usr/bin/git --git-dir=~/.cfg/ --work-tree=~/'
