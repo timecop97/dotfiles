@@ -32,6 +32,15 @@ function br {
 	echo $1 > /sys/class/backlight/amdgpu_bl0/brightness
 }
 
+function cmt (){
+	$currentPath = pwd
+	cd ~/dotfiles
+	git add --all
+	git commit -a -m"$1"
+	git push
+	cd $currentPath
+}
+
 alias rcl='nano /etc/rc.local'
 
 alias ll='ls -a'
@@ -43,3 +52,4 @@ alias nf='neofetch'
 alias bye='poweroff'
 
 alias scr='scrot'
+
