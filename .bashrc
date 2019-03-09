@@ -22,7 +22,7 @@ function cds(){
 	ls
 }
 
-alias abr='abricotine'
+alias abr='nohup abricotine & exit'
 
 alias config='/usr/bin/git --git-dir=~/.cfg/ --work-tree=~/'
 alias ins='sudo pacman -S'
