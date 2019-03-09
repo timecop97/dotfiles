@@ -53,3 +53,4 @@ alias bye='poweroff'
 
 alias scr='scrot'
 
+alias rn='ranger'
