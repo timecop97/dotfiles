@@ -4,7 +4,11 @@ alias brc='nano ~/.bashrc'
 
 alias i3c='nano ~/.config/i3/config'
 
+alias ff='nohup firefox & exit'
+
 alias pbc='nano ~/.config/polybar/config'
+
+alias dis='nohup discord & exit' 
 
 alias ref='source ~/.bash_profile'
 
