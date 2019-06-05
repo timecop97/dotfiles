@@ -36,11 +36,11 @@ function br {
 	echo $1 > /sys/class/backlight/amdgpu_bl0/brightness
 }
 
-function cmt (){
+function cmt(){
 	$currentPath = pwd
 	cd ~/dotfiles
 	git add --all
-	git commit -a -m"$1"
+	git commit -a -m"automatic commit"
 	git push
 	cd $currentPath
 }
@@ -59,4 +59,4 @@ alias scr='scrot'
 
 alias rn='ranger'
 
-alias e='eva'
+alias e='exa -abHli --git'
