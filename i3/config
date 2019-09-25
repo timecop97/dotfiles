@@ -5,10 +5,14 @@ exec_always --no-startup-id /home/raffi/.config/polybar/polybar.sh
 
 exec_always --no-startup-id "i3-msg 'workspace 1; append_layout 
 ~/.config/i3/boot.json'"
+
 exec_always --no-startup-id "termite --title=nf -e 'bash -c \"neofetch && 
 bash\"' --hold"
-exec_always --no-startup-id "termite --title=term"
-exec_always --no-startup-id "termite --title=term2"
+
+
+exec_always --no-startup-id "termite --title=cm -e 'bash -c \"cmatrix -s; bash\"' --hold"
+
+exec_always --no-startup-id "termite"
 #/bar
 
 #hide borders

@@ -13,7 +13,7 @@
     "swallows": [
        {
        "class": "^Termite$",
-       "name" : "cm"
+       "name" : "^term2$"
        }
     ],
     "type": "con"
