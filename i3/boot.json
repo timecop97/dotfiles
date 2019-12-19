@@ -61,7 +61,7 @@
             "swallows": [
                {
                "class": "^Termite$",
-	       "name" : "^term$"
+	       "name" : "^mk$"
  	       
                }
             ],

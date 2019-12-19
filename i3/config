@@ -9,10 +9,11 @@ exec_always --no-startup-id "i3-msg 'workspace 1; append_layout
 exec_always --no-startup-id "termite --title=nf -e 'bash -c \"neofetch && 
 bash\"' --hold"
 
-
 exec_always --no-startup-id "termite --title=cm -e 'bash -c \"cmatrix -s; bash\"' --hold"
 
-exec_always --no-startup-id "termite"
+
+exec_always --no-startup-id "termite --title=mk -e 'bash -c \"cat mickey.txt; bash\"' --hold" 
+
 #/bar
 
 #hide borders

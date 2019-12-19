@@ -10,9 +10,13 @@ alias ref='source ~/.bash_profile'
 
 alias ..='cd ..'
 
+alias dis='nohup discord >/dev/null & exit' 
+
 alias web='nohup google-chrome-stable >/dev/null & exit'
 
 alias vs='nohup code >/dev/null & exit'
+
+alias tv='nohup teamviewer >/dev/null & exit'
 
 alias minceraft='nohup minecraft-launcher >/dev/null & exit' 
 function al(){
@@ -25,7 +29,19 @@ function cds(){
 	ls
 }
 
+function lc(){
+	if test -d "$1"
+	then ls "$1";
+	elif test -f "$1"
+	then cat "$1";
+	else
+	echo "somehow neither a file or a directory";
+	fi
+}
+
 alias abr='nohup abricotine >/dev/null & exit'
+
+alias kr='nohup krita >/dev/null & exit'
 
 alias config='/usr/bin/git --git-dir=~/.cfg/ --work-tree=~/'
 alias ins='sudo pacman -S'
