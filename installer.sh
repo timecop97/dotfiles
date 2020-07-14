@@ -4,7 +4,7 @@
 
 $dfpath = pwd
 
-pacman -S git picom ranger firefox i3-gaps htop nano alsa pulseaudio alsa-utils code termite
+pacman -S git picom ranger firefox i3-gaps htop nano alsa pulseaudio alsa-utils code termite xorg-utils xorg-server lightdm
 
 git clone https://aur.archlinux.org/yay-git.git
 cd ~
@@ -16,7 +16,7 @@ rm -rf yay-git
 cd $dfpath
 #go back to dotfiles
 
-yay -S polybar wal 6cord spotifyd spotify-tui otf-overpass
+yay -S polybar wal 6cord spotifyd spotify-tui otf-overpass lightdm-slick-greeter
 
 ln -s bashrc ~/.bashrc
 
