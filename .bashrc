@@ -1,4 +1,8 @@
-export "PS1=\e[0;32m[User \u in \w] \$\e[m"
+export "PS1=[User \u in \w] \$"
+
+wal --preview
+(cat ~/.cache/wal/sequences &)
+
 
 alias brc='nano ~/.bashrc'
 
@@ -6,13 +10,13 @@ alias i3c='nano ~/.config/i3/config'
 
 alias pbc='nano ~/.config/polybar/config'
 
-alias ref='source ~/.bash_profile'
+alias ref='source ~/.bashrc'
 
 alias ..='cd ..'
 
-alias dis='nohup discord >/dev/null & exit' 
+alias dis='nohup 6cord >/dev/null & exit' 
 
-alias web='nohup google-chrome-stable >/dev/null & exit'
+alias ff='nohup firefox >/dev/null & exit'
 
 alias vs='nohup code >/dev/null & exit'
 
@@ -46,6 +50,7 @@ alias kr='nohup krita >/dev/null & exit'
 alias config='/usr/bin/git --git-dir=~/.cfg/ --work-tree=~/'
 alias ins='sudo pacman -S'
 
+
 function br {	
 	sudo chmod +777 /sys/class/backlight/amdgpu_bl0/brightness
 	echo $1 > /sys/class/backlight/amdgpu_bl0/brightness
@@ -65,15 +70,13 @@ function cmt (){
 	cd $currentPath
 }
 
-function rm(){
-	mv $1 ~/.trash
-}
+#function rm(){
+#	mv $1 ~/.trash/
+#}
 
 alias rcl='nano /etc/rc.local'
 
-alias ll='ls -a'
-
-alias mu='nohup gpmdp >/dev/null & exit'
+alias ll='ls -a -l'
 
 alias nf='neofetch'
 
@@ -83,8 +86,10 @@ alias scr='scrot'
 
 alias rn='ranger'
 
-alias at='nohup atom >/dev/null & exit'
-
-alias logi='nohup logisim-evolution >/dev/null  & exit'
-
 alias e='exa -bghHli --git'
+alias swatch='wal --preview'
+
+alias trl='trash-list'
+alias trp='trash-put'
+
+source /etc/profile.d/undistract-me.sh
