@@ -1,6 +1,7 @@
 export "PS1=[User \u in \w] \$"
 
 wal --preview
+(cat ~/.cache/wal/sequences &)
 
 alias brc='nano ~/.bashrc'
 
