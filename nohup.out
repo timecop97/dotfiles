@@ -1,0 +1,373 @@
+polybar|warn:  No monitor specified, using "DP-2"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  pulseaudio: using default sink alsa_output.pci-0000_09_00.3.iec958-stereo
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "wlp3s0")
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+[ 07/14/20 22:38:08.093 x_fence_sync ERROR ] Failed to trigger the fence (X error 136 XSyncBadFence request 134 minor 15 serial 1729)
+[ 07/14/20 22:38:08.093 paint_all ERROR ] x_fence_sync failed, xrender-sync-fence will be disabled from now on.
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+[ 07/14/20 22:38:25.167 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040008b (raffi@raffitower:~/dotfiles)
+[ 07/14/20 22:38:25.167 win_clear_flags WARN ] Flags cleared on a destroyed window 0x0040009a ((null))
+[ 07/14/20 22:38:25.167 win_clear_flags WARN ] Flags cleared on a destroyed window 0x00400086 (polybar-mybar_DP-2)
+[ 07/14/20 22:38:25.167 x_new_id FATAL ERROR ] We seems to have run of XIDs. This is either a bug in the X server, or a resource leakage in the compositor. Please open an issue about this problem. The compositor will die.
+polybar|warn:  Termination signal received, shutting down...
+[ 07/14/20 22:49:22.747 session_init FATAL ERROR ] Another composite manager is already running
+polybar|warn:  No monitor specified, using "DP-2"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  pulseaudio: using default sink alsa_output.pci-0000_09_00.3.iec958-stereo
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "wlp3s0")
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  Termination signal received, shutting down...
+[ 07/14/20 22:59:16.957 session_init FATAL ERROR ] Another composite manager is already running
+polybar|warn:  No monitor specified, using "DP-2"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  pulseaudio: using default sink alsa_output.pci-0000_09_00.3.iec958-stereo
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "wlp3s0")
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|warn:  Termination signal received, shutting down...
+polybar|warn:  No monitor specified, using "DP-2"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  pulseaudio: using default sink alsa_output.pci-0000_09_00.3.iec958-stereo
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "wlp3s0")
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+[ 07/14/20 23:00:48.904 x_fence_sync ERROR ] Failed to trigger the fence (X error 136 XSyncBadFence request 134 minor 15 serial 1775)
+[ 07/14/20 23:00:48.905 paint_all ERROR ] x_fence_sync failed, xrender-sync-fence will be disabled from now on.
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+[ 07/14/20 23:00:50.004 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 1970)
+[ 07/14/20 23:00:50.004 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 1981)
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xd: errno 9 (Bad file descriptor))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xd: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xd: errno 22 (Invalid argument))
+polybar|warn:  Termination signal received, shutting down...
+[ 07/14/20 23:00:50.114 session_init FATAL ERROR ] Another composite manager is already running
+polybar|warn:  No monitor specified, using "DP-2"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  pulseaudio: using default sink alsa_output.pci-0000_09_00.3.iec958-stereo
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "wlp3s0")
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|warn:  Termination signal received, shutting down...
+polybar|warn:  No monitor specified, using "DP-2"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  pulseaudio: using default sink alsa_output.pci-0000_09_00.3.iec958-stereo
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "wlp3s0")
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+[ 07/14/20 23:03:23.826 x_fence_sync ERROR ] Failed to trigger the fence (X error 136 XSyncBadFence request 134 minor 15 serial 1775)
+[ 07/14/20 23:03:23.826 paint_all ERROR ] x_fence_sync failed, xrender-sync-fence will be disabled from now on.
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+[ 07/14/20 23:03:40.815 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 2937)
+[ 07/14/20 23:03:40.815 win_mark_client ERROR ] Failed to get client window attributes (X error 3 WINDOW request 3 minor 0 serial 2948)
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 2 (No such file or directory))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|warn:  Termination signal received, shutting down...
+polybar|warn:  No monitor specified, using "DP-2"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color0" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  pulseaudio: using default sink alsa_output.pci-0000_09_00.3.iec958-stereo
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color7" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color5" not found, using defined fallback value "#222"
+polybar|warn:  X resource "color6" not found, using defined fallback value "#222"
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "wlp3s0")
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+[ 07/14/20 23:03:41.161 x_fence_sync ERROR ] Failed to trigger the fence (X error 136 XSyncBadFence request 134 minor 15 serial 1775)
+[ 07/14/20 23:03:41.161 paint_all ERROR ] x_fence_sync failed, xrender-sync-fence will be disabled from now on.
+polybar|warn:  Termination signal received, shutting down...
+polybar|warn:  No monitor specified, using "DP-2"
+polybar|warn:  pulseaudio: using default sink alsa_output.pci-0000_09_00.3.iec958-stereo
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "wlp3s0")
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+[ 07/14/20 23:03:41.630 x_create_picture_with_pictfmt_and_pixmap ERROR ] failed to create picture (X error 8 MATCH request 139 minor 4 serial 2193)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character 🔇 (U+1f507)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+[ 07/14/20 23:04:10.867 win_clear_flags WARN ] Flags cleared on a destroyed window 0x004000ad (raffi@raffitower:~/dotfiles)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to read header from socket 0xc: errno 104 (Connection reset by peer))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 111 (Connection refused))
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Failed to read header from socket 0xc: errno 22 (Invalid argument))
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to connect to i3: errno 111 (Connection refused))
+polybar|warn:  Termination signal received, shutting down...
+polybar|warn:  No monitor specified, using "DP-2"
+polybar|warn:  pulseaudio: using default sink alsa_output.pci-0000_09_00.3.iec958-stereo
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "wlp3s0")
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+[ 07/14/20 23:04:19.432 x_fence_sync ERROR ] Failed to trigger the fence (X error 136 XSyncBadFence request 134 minor 15 serial 1731)
+[ 07/14/20 23:04:19.432 paint_all ERROR ] x_fence_sync failed, xrender-sync-fence will be disabled from now on.
+[ 07/14/20 23:04:19.433 x_create_picture_with_pictfmt_and_pixmap ERROR ] failed to create picture (X error 8 MATCH request 139 minor 4 serial 1747)
+polybar|warn:  Termination signal received, shutting down...
+polybar|warn:  No monitor specified, using "DP-2"
+polybar|warn:  pulseaudio: using default sink alsa_output.pci-0000_09_00.3.iec958-stereo
+polybar|error: Disabling module "wlan" (reason: Invalid network interface "wlp3s0")
+polybar|error: Disabling module "battery" (reason: No suitable way to get current charge state)
+polybar|warn:  Ignoring restack of i3 window (not needed when `override-redirect = false`)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+[ 07/14/20 23:04:19.637 x_create_picture_with_pictfmt_and_pixmap ERROR ] failed to create picture (X error 8 MATCH request 139 minor 4 serial 1955)
+polybar|warn:  Dropping unmatched character  (U+e016)
+polybar|warn:  Dropping unmatched character  (U+e028)
+polybar|warn:  module/i3: Attempting to reconnect socket (reason: Unexpected EOF while reading header)
+polybar|error: module/i3: Failed to reconnect socket (reason: Failed to read header from socket 0xc: errno 104 (Connection reset by peer))
+XIO:  fatal IO error 2 (No such file or directory) on X server ":0"
+      after 2109 requests (2049 known processed) with 0 events remaining.
+polybar|warn:  Termination signal received, shutting down...

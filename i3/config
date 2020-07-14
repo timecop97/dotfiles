@@ -14,7 +14,7 @@ exec_always --no-startup-id "pkill picom; picom -b"
 
 exec --no-startup-id termite
 
-exec --no-startup-id wal -i /home/raffi/.config/i3/back.jpg
+exec_always --no-startup-id wal -i /home/raffi/.config/i3/back.jpg
 exec_always --no-startup-id /home/raffi/.config/polybar/launch.sh
 
 # Use pactl to adjust volume in PulseAudio.

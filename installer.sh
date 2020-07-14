@@ -48,3 +48,6 @@ ln -sf $DFPATH/polybar/launch.sh ~/.config/polybar/launch.sh
 mkdir ~/.config/picom
 ln -sf $DFPATH/picom/picom.conf ~/.config/picom/picom.conf
 ln -sf $DFPATH/xinitrc ~/.xinitrc
+
+mkdir ~/.config/termite
+ln -sf $DFPATH/termite/config ~/.config/termite/config
