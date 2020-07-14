@@ -1,8 +1,6 @@
 export "PS1=[User \u in \w] \$"
 
 wal --preview
-(cat ~/.cache/wal/sequences &)
-
 
 alias brc='nano ~/.bashrc'
 
@@ -87,9 +85,7 @@ alias scr='scrot'
 alias rn='ranger'
 
 alias e='exa -bghHli --git'
-alias swatch='wal --preview'
 
 alias trl='trash-list'
 alias trp='trash-put'
 
-source /etc/profile.d/undistract-me.sh
